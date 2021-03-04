@@ -1,4 +1,4 @@
-# Hi there, I'm Pawel 👋
+# Hi there, I'm Pawel 👋 <img align="left" alt="My portfolio" width="60px" src="https://probably-best.netlify.app/img/logoNew.png" />
 ## I'm a self taught frontend developer and JavaScript programmer.
 
 There is some info about me:
