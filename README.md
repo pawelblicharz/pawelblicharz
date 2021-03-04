@@ -11,8 +11,9 @@ There is some info about me:
 - ⚡ Fun fact: I'm interested in blacksmithing and martial arts.
 
 ## Let's stay in touch:
-[My website]:(https://probably-best.netlify.app)
-
+[<img align="left" alt="My portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Pawel Blicharz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
 ### Languages and Tools I'm using:
 
@@ -30,3 +31,6 @@ There is some info about me:
 
 ### Github stats:
  <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pawelblicharz&count_private=true" />
+
+[website]: https://probably-best.netlify.app
+[linkedin]: https://www.linkedin.com/in/paweł-blicharz-890745207
