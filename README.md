@@ -1,4 +1,4 @@
-### Hi there, I'm Pawel 👋
+# Hi there, I'm Pawel 👋
 ## I'm a self taught frontend developer and JavaScript programmer.
 
 There is some info about me:
@@ -27,6 +27,7 @@ There is some info about me:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br />
 <br />
 
 ## Github stats:
