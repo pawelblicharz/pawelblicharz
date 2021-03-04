@@ -11,8 +11,8 @@ There is some info about me:
 - ⚡ Fun fact: I'm interested in blacksmithing and martial arts.
 
 ## Let's stay in touch:
-[<img align="left" alt="https://probably-best.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="helloroman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[My website]:(https://probably-best.netlify.app)
+
 
 ### Languages and Tools I'm using:
 
